@@ -1,0 +1,19 @@
+{
+  "name": "study_app_zhiyuan_zhou_eric",
+  "version": "1.0.0",
+  "description": "for a3 only",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericccc1989/studbud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericccc1989/studbud/issues"
+  },
+  "homepage": "https://github.com/ericccc1989/studbud#readme"
+}
